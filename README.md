@@ -11,7 +11,7 @@ _Vorlesung zum fachwissenschaftlichen Modul **Internet of Things** im [Bachelors
 
 ## Leistungsnachweis
 
-- **PStA** : Die Projektarbeit wird im Rahmen der Übung durchgeführt. Abschlusspraesentation ist am 04. Juli (letzter Vorlesungstermin!)
+- **PStA** : Die Projektarbeit wird im Rahmen der Übung durchgeführt. Abschlusspräsentation ist am 04. Juli (letzter Vorlesungstermin!)
 
 ## Empfohlene Literatur
 
