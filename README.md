@@ -7,7 +7,7 @@ _Vorlesung zum fachwissenschaftlichen Modul **Internet of Things** im [Bachelors
 **Vorlesungstermin**: Donnerstag, 08:00 - 11:15; Raum B0.11
 
 
-**Kommunikation**: via [Mattermost](https://inf-mattermost.th-rosenheim.de/inf-iot/channels/town-square) ([einschreiben](https://inf-mattermost.th-rosenheim.de/signup_user_complete/?id=wp3dau8xmigxtmf93z5ixur1ta))
+**Kommunikation**: via [Mattermost](https://inf-mattermost.fh-rosenheim.de/inf-iot/channels/town-square) ([einschreiben](https://inf-mattermost.fh-rosenheim.de/signup_user_complete/?id=beamxgitujyyika1h8bx5rzuje))
 
 ## Leistungsnachweis
 
