@@ -25,11 +25,13 @@ _Vorlesung zum fachwissenschaftlichen Modul **Internet of Things** im [Bachelors
 
 	Wir starten diese Vorlesung ganz klassisch. Zunächst klären wir alles Organisatorische, vor allem wie das PStA ablaufen wird. Danach geht es mit einen Überblick und Scope der Vorlesung weiter. Gerne erzähle ich etwas zur Geschichte vom Internet der Dinge (Internet of Things; IoT). Möchte gerne motivieren, warum das Internet der Dinge so hip ist, welche Beziehungen zum Industrial IoT oder auch zur Industrie 4.0 bestehen. Danach schauen wir uns im Detail ein paar Szenarien aus verschiedenen Bereichen an.
 
-- **28. März: IoT Architekturen** ([Skript](/assets/01-vorlesung/01-Vorlesung.pdf), [Übung](https://github.com/hsro-inf-iot/00_uebung))
+     In der Übung schauen wir, ob Azure-Cloud Zugriffe funktionieren. 
+
+- **28. März: IoT Architekturen** ([Skript](/assets/01-vorlesung/01-Vorlesung.pdf), [Übung](https://github.com/hsro-inf-iot/01_uebung))
 
      Hier steigen wir nun ein in das Thema IoT. Wie ist IoT überhaupt definiert? Welche Elemente von IoT gibt es? Welche IoT Topologien  (Edge/Fog/Cloud) gibt es und wie genau unterscheiden sich diese?
 
-     In der Übung schauen wir, ob Azure-Cloud Zugriffe funktionieren. In der Übung werden wir versuchen ein IoT Entwickler Board ([MXChip](https://microsoft.github.io/azure-iot-developer-kit/)) zu verbinden.
+     In der Übung werden wir versuchen ein IoT Entwickler Board ([MXChip](https://microsoft.github.io/azure-iot-developer-kit/)) zu verbinden.
 
 - **4. April: Things und  Sensoren** ([Skript], [Übung])
 
