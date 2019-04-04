@@ -25,23 +25,28 @@ _Vorlesung zum fachwissenschaftlichen Modul **Internet of Things** im [Bachelors
 
 	Wir starten diese Vorlesung ganz klassisch. Zunächst klären wir alles Organisatorische, vor allem wie das PStA ablaufen wird. Danach geht es mit einen Überblick und Scope der Vorlesung weiter. Gerne erzähle ich etwas zur Geschichte vom Internet der Dinge (Internet of Things; IoT). Möchte gerne motivieren, warum das Internet der Dinge so hip ist, welche Beziehungen zum Industrial IoT oder auch zur Industrie 4.0 bestehen. Danach schauen wir uns im Detail ein paar Szenarien aus verschiedenen Bereichen an.
 
-- **28. März: IoT Architekturen** ([Skript], [Übung])
+     In der Übung schauen wir, ob Azure-Cloud Zugriffe funktionieren. 
+
+- **28. März: IoT Architekturen** ([Skript](/assets/01-vorlesung/01-Vorlesung.pdf), [Übung](https://github.com/hsro-inf-iot/01_uebung))
 
      Hier steigen wir nun ein in das Thema IoT. Wie ist IoT überhaupt definiert? Welche Elemente von IoT gibt es? Welche IoT Topologien  (Edge/Fog/Cloud) gibt es und wie genau unterscheiden sich diese?
 
-     In der Übung schauen wir, ob AWS- und Azure-Cloud Zugriffe funktionieren.
+     In der Übung werden wir versuchen ein IoT Entwickler Board ([MXChip](https://microsoft.github.io/azure-iot-developer-kit/)) zu verbinden.
 
-- **4. April: Things und  Sensoren** ([Skript], [Übung])
+- **4. April: Things und  Sensoren** ([Skript](/assets/02-vorlesung/02-Vorlesung.pdf), [Übung](https://github.com/hsro-inf-iot/01_uebung))
 
      Nachdem wir sehr high-level IoT Architekturen und Topologien betrachtet haben, tauchen wir hier tiefer in die Themen _Things_ (Dinge) und Sensoren ein. Dazu versuchen eine Kategorisierung zu erstellen.
-     Aber vor allem schauen wir darauf, wie kommunizieren diese Things und welche Protokolle gibt es, z.B. Bluetooth, BLE, ZigBee,6LowPan, LORA.
+     
+
+     Als Übung beschäftigen wir uns nochmal mit der Übung aus der Vorwoche.
 
 - **11. April: From Device to Cloud** ([Skript], [Übung])
 
-     Nun schauen wir uns an, wie via IP/TCP Verbindungen vom Ding mit der Cloud kommuniziert werden kann, z.B. HTTP/ Rest, MQTT und CoAP.
+     Wir schuaen darauf, wie Things kommunizieren und welche Protokolle es gibt, z.B. Bluetooth, BLE, ZigBee,6LowPan, LORA. Ausserdem schauen wir uns an, wie via IP/TCP Verbindungen vom Ding mit der Cloud kommuniziert werden kann, z.B. HTTP/ Rest, MQTT und CoAP.
+
      Wenn Zeit bleibt, müssen wir uns auch etwas mit dem Thema _Security_ beschäftigen.
 
-     In der Übung werden wir versuchen ein IoT Entwickler Board ([MXChip](https://microsoft.github.io/azure-iot-developer-kit/)) zu verbinden.
+     In der Übung lassen wir unseren MXChip mal via MQTT mit einem anderen Service kommunizieren.
 
 - **18. April: Vorlesungsfrei - Ostern**
 
