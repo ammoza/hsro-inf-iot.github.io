@@ -42,7 +42,7 @@ _Vorlesung zum fachwissenschaftlichen Modul **Internet of Things** im [Bachelors
 
 - **11. April: From Device to Cloud** ([Skript](/assets/03-vorlesung/03-Vorlesung.pdf), [Übung](https://github.com/hsro-inf-iot/03_uebung))
 
-     Wir schuaen darauf, wie Things kommunizieren und welche Protokolle es gibt, z.B. Bluetooth, BLE, ZigBee,6LowPan, LORA. Ausserdem schauen wir uns an, wie via IP/TCP Verbindungen vom Ding mit der Cloud kommuniziert werden kann, z.B. HTTP/ Rest, MQTT und CoAP.
+     Wir schauen darauf, wie Things kommunizieren und welche Protokolle es gibt, z.B. Bluetooth, BLE, ZigBee,6LowPan, LORA. Ausserdem schauen wir uns an, wie via IP/TCP Verbindungen vom Ding mit der Cloud kommuniziert werden kann, z.B. HTTP/ Rest, MQTT und CoAP.
 
      Wenn Zeit bleibt, müssen wir uns auch etwas mit dem Thema _Security_ beschäftigen.
 
