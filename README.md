@@ -50,11 +50,11 @@ _Vorlesung zum fachwissenschaftlichen Modul **Internet of Things** im [Bachelors
 
 - **18. April: Vorlesungsfrei - Ostern**
 
-- **25. April: IoT Analytics** ([Skript], [Übung])
+- **25. April: IoT Analytics** ([Skript](/assets/04-vorlesung/04-Vorlesung.pdf), [Übung](https://github.com/hsro-inf-iot/04_uebung))
 
      Nachdem Oster-Break geht es im nächsten Block Richtung Analyse von Daten. Denn IoT ist schließlich mehr als nur Dinge, die verbunden sind. Denn was nützen uns die Dinge, wenn wir mit den Daten nichts machen. Also müssen wir uns dem Themen Big Data, Data Storage und Datenverarbeitung Konzepten beschäftigen.
 
-     In der Übung arbeiten mit den Daten, die uns unser MXChip liefert.
+     In der Übung arbeiten mit den Daten, die uns ein Python Skript und evtl. ein RPi liefert. Den wir auch noch so nebenbei aufsetzen.
 
 - **02. Mai: Big Data in IoT** ([Skript], [Übung])
 
