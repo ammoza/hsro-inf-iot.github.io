@@ -37,7 +37,6 @@ _Vorlesung zum fachwissenschaftlichen Modul **Internet of Things** im [Bachelors
 
      Nachdem wir sehr high-level IoT Architekturen und Topologien betrachtet haben, tauchen wir hier tiefer in die Themen _Things_ (Dinge) und Sensoren ein. Dazu versuchen eine Kategorisierung zu erstellen.
      
-
      Als Übung beschäftigen wir uns nochmal mit der Übung aus der Vorwoche.
 
 - **11. April: From Device to Cloud** ([Skript](/assets/03-vorlesung/03-Vorlesung.pdf), [Übung](https://github.com/hsro-inf-iot/03_uebung))
@@ -56,17 +55,18 @@ _Vorlesung zum fachwissenschaftlichen Modul **Internet of Things** im [Bachelors
 
      In der Übung arbeiten mit den Daten, die uns ein Python Skript und evtl. ein RPi liefert. Den wir auch noch so nebenbei aufsetzen.
 
-- **02. Mai: Big Data in IoT** ([Skript], [Übung])
+- **02. Mai: Big Data in IoT** ([Skript](/assets/05-vorlesung/05-Vorlesung.pdf), [Übung](https://github.com/hsro-inf-iot/05_uebung))
 
      Wir schauen mal das Thema Big Data etwas genauer an. Es sollte jeder verstehen, was _Map-and-Reduce_ ist. In diesem Zusammenhang betrachten wir auch Data Ingest, Lamda Architekturen und Stream Processing.
 
-     In der Übung schauen wir, dass wir Hadoop und Spark verwenden können und erwecken ein _Map-and-Reduce_ Job zum Leben. Ach ja, und natürlich werden wir auf Azure einen Stream-Analytics Job implementieren und instanzieren.
+     In der Übung werden wir uns definitiv noch etwas mit dem RPi beschäftigen.
+     
 
 - **09. Mai: Data Exploration** ([Skript], [Übung])
 
      Nachdem wir nun gelernt haben, welche Möglichkeiten wir zum Verarbeiten von großen Datenmengen haben. Bietet es sich an, zu verstehen, wonach man in den Daten überhaupt sucht und was man erkennen kann (z.B. Muster, Anomalien, etc). Also Data Exploration und Visualisierung wird ein Thema sein. Ebenso Dashboard BI und Time Series Daten.
 
-     In der Übung werden wir mal wieder den MXChip herannehmen und damit arbeiten.
+     In der Übung schauen wir, dass wir Hadoop und Spark verwenden können und erwecken ein _Map-and-Reduce_ Job zum Leben. Ach ja, und natürlich werden wir auf Azure einen Stream-Analytics Job implementieren und instanzieren.
 
 - **16. Mai: IoT Platformen** ([Skript], [Übung])
 
