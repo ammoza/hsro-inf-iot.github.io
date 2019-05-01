@@ -55,7 +55,7 @@ _Vorlesung zum fachwissenschaftlichen Modul **Internet of Things** im [Bachelors
 
      In der Übung arbeiten mit den Daten, die uns ein Python Skript und evtl. ein RPi liefert. Den wir auch noch so nebenbei aufsetzen.
 
-- **02. Mai: Big Data in IoT** ([Skript](/assets/05-vorlesung/05-Vorlesung.pdf), [Übung](https://github.com/hsro-inf-iot/05_uebung))
+- **02. Mai: Big Data in IoT** ([Skript RPi](/assets/05-vorlesung/src/README.md), [Skript Big Data](/assets/05-vorlesung/05-2-Vorlesung.pdf), [Übung](https://github.com/hsro-inf-iot/05_uebung))
 
      Wir schauen mal das Thema Big Data etwas genauer an. Es sollte jeder verstehen, was _Map-and-Reduce_ ist. In diesem Zusammenhang betrachten wir auch Data Ingest, Lamda Architekturen und Stream Processing.
 
