@@ -55,18 +55,20 @@ _Vorlesung zum fachwissenschaftlichen Modul **Internet of Things** im [Bachelors
 
      In der Übung arbeiten mit den Daten, die uns ein Python Skript und evtl. ein RPi liefert. Den wir auch noch so nebenbei aufsetzen.
 
-- **02. Mai: Big Data in IoT** ([Skript RPi](/assets/05-vorlesung/src/README.md), [Skript Big Data](/assets/05-vorlesung/05-2-Vorlesung.pdf), [Übung](https://github.com/hsro-inf-iot/05_uebung))
+- **02. Mai: Big Data in IoT** ([Skript RPi](/assets/05-vorlesung/src/README.md), [Übung](https://github.com/hsro-inf-iot/05_uebung))
 
      Wir schauen mal das Thema Big Data etwas genauer an. Es sollte jeder verstehen, was _Map-and-Reduce_ ist. In diesem Zusammenhang betrachten wir auch Data Ingest, Lamda Architekturen und Stream Processing.
 
      In der Übung werden wir uns definitiv noch etwas mit dem RPi beschäftigen.
      
 
-- **09. Mai: Data Exploration** ([Skript], [Übung])
+- **09. Mai: Data Exploration** ([Skript](/assets/06-vorlesung/06-Vorlesung.pdf), [Übung](https://github.com/hsro-inf-iot/06_uebung))
 
-     Nachdem wir nun gelernt haben, welche Möglichkeiten wir zum Verarbeiten von großen Datenmengen haben. Bietet es sich an, zu verstehen, wonach man in den Daten überhaupt sucht und was man erkennen kann (z.B. Muster, Anomalien, etc). Also Data Exploration und Visualisierung wird ein Thema sein. Ebenso Dashboard BI und Time Series Daten.
+    Nachdem wir nun gelernt haben, welche Möglichkeiten wir zum Verarbeiten von großen Datenmengen haben. Bietet es sich an, zu verstehen, wonach man in den Daten überhaupt sucht und was man erkennen kann (z.B. Muster, Anomalien, etc). Also Data Exploration und Visualisierung wird ein Thema sein. Ebenso Dashboard BI und Time Series Daten
 
-     In der Übung schauen wir, dass wir Hadoop und Spark verwenden können und erwecken ein _Map-and-Reduce_ Job zum Leben. Ach ja, und natürlich werden wir auf Azure einen Stream-Analytics Job implementieren und instanzieren.
+     Zum Arbeiten mit Daten wurde ein [Jupyter Notebook](/assets/06-vorlesung/Data-Analytics%20with%20Python.ipynb) verwendet.
+
+     In der Übung werden wir mal wieder den RPi hernehmen.
 
 - **16. Mai: IoT Platformen** ([Skript], [Übung])
 
