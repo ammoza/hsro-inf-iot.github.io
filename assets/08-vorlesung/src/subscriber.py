@@ -18,8 +18,9 @@ def send_to_blob(data):
     blob.write_data_to_blob(data)
 
 def send_to_cosmos(data):
-    print("Send to cosmos : " + data)
-    cosmos.DocumentManagement.CreateDocument(cosmos_client, data)
+    json_d = json.loads(data)
+    print("Send to cosmos : " + json_d)
+    cosmos.DocumentManagement.CreateDocument(cosmos_client, json_d)
 
 def on_connect(client, userdata, flags, rc):
     print("Connected with result code " + str(rc))

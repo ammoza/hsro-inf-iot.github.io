@@ -20,7 +20,7 @@ def send(client, id):
             "Humidity" : random.randrange(500, 1000)
         }
         client.publish("iotro/mt/devices", json.dumps(data))
-        print(".", end ="")
+        print(".")
 
 # Main
 if __name__ == '__main__':
